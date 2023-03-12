@@ -12,3 +12,4 @@ help:
 teste: ## Tests
 	set -e; \
 	echo ${TESTE}
+	ls -la apis/${API}/teste
