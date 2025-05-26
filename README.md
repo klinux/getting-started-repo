@@ -3,3 +3,5 @@ A repository for use with GoCD's ["Getting Started" documentation](https://www.g
 Teste 1
 
 Teste 2
+
+Teste 3
